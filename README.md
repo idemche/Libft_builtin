@@ -3,3 +3,8 @@
 # Libft_builtin
 Representation of native __builtin C library.
 </div>
+
+<div align="center">
+By invoking "make" command compiler creates a dynamic library caused libft.a. Make yourself familiar with present functions
+in src to understand which functions are in libft.
+</div>
