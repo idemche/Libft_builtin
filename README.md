@@ -10,7 +10,7 @@ By invoking "make" command compiler creates a dynamic library caused libft.a. Ma
 in src to understand which functions are in libft.
 </div>
 
-# Creating, Cleaning, 
+# Creating, Cleaning objects, Cleaning objects and dynamic library 
 
 ```sh
 $ make
